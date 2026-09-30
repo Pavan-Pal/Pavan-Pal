@@ -1,23 +1,98 @@
-### 👋 Hi, I'm Pavan Pal!
-### 🚀 Google Sheets Expert | Google Apps Script Developer | Web App Creator
+# Hi, I'm Pavan Pal 👋
 
-I specialize in **automating business processes** using Google Sheets, Apps Script, and other Google Workspace tools like **Docs, Slides, Forms, Calendar, and Gmail**. My expertise lies in **streamlining workflows, creating automation, and enhancing productivity** with custom-built solutions.
+### Business Automation & Systems Engineer | AI & Workflow Automation
 
-**💡 What I Do:**
+I design and build **business systems, workflow automation, internal tools, and AI-powered solutions** that turn manual processes into structured, scalable workflows.
 
-✅ Automate tasks using Google Apps Script
+With 7+ years of experience across data management, MIS, business process automation, and internal systems, I work across the full cycle — **understanding the business problem, designing the workflow, building the system, integrating APIs, automating operations, and supporting users in production.**
 
-✅ Develop custom Google Sheets solutions for businesses
+## What I Build
 
-✅ Create interactive dashboards for data visualization
+* ⚙️ Business Process & Workflow Automation
+* 🏢 Internal Business Systems & Management Tools
+* 📊 MIS, Dashboards & Management Reporting
+* 🔄 Google Workspace & Apps Script Automation
+* 🔗 REST API Integrations & Data Workflows
+* 🤖 AI / LLM-powered Automation
+* 🧩 Web Apps & Internal Tools
+* 🔐 Role-based workflows and access-controlled systems
 
-✅ Build web apps using HTML, CSS, JavaScript
+## Experience Across Business Systems
 
-✅ Use Postman for API testing and integrations
+I've worked on systems and workflows covering:
 
-✅ Code in VS Code for advanced web app development
+**FMS • IMS • HR Automation • Leave Management • Venue Booking • Transport • Parent Communication • Candidate Onboarding • Checklists • Performance Tracking • Management Reporting**
 
+These systems have been used in environments supporting **500+ employees**.
 
-📌 Passionate about simplifying complex business problems with smart automation and intuitive solutions. Always eager to explore new technologies and optimize workflows.
+## Technology
 
-💬 Let’s collaborate on innovative projects!
+**Automation & Backend**
+
+* Google Apps Script
+* JavaScript
+* n8n
+* REST APIs
+* AI / LLM APIs
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* React
+
+**Data & Infrastructure**
+
+* Google Sheets
+* SQL
+* PostgreSQL / Supabase
+* Git & GitHub
+* Clasp
+* Vercel
+
+**Development**
+
+* VS Code
+* Postman
+* API Integration
+* System Design
+* Workflow Architecture
+
+## How I Think About Automation
+
+```text
+Business Problem
+      ↓
+Process Understanding
+      ↓
+Workflow & System Design
+      ↓
+Data + API Integration
+      ↓
+Automation
+      ↓
+User Interface
+      ↓
+Deployment & Support
+```
+
+I focus on building systems that are **practical, maintainable, and aligned with how businesses actually operate** — not automation for the sake of automation.
+
+## Currently Exploring
+
+🤖 AI-powered business automation
+🧠 LLM-based workflows and agents
+🔗 API-first systems
+☁️ Modern application architecture
+📦 Productized automation & SaaS
+
+## Let's Connect
+
+🌐 [Website](https://pavanpal.com)
+💼 [LinkedIn](https://linkedin.com/in/pavankumarpal)
+🐦 [X](https://x.com/pavankumarpal)
+
+---
+
+**I build systems that make business processes simpler, faster, and more automated.**
