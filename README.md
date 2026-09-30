@@ -91,7 +91,7 @@ I focus on building systems that are **practical, maintainable, and aligned with
 
 🌐 [Website](https://pavanpal.com)
 💼 [LinkedIn](https://linkedin.com/in/pavankumarpal)
-🐦 [X](https://x.com/pavankumarpal)
+🐦 [X](https://x.com/Pavan_Kumar_Pal)
 
 ---
 
